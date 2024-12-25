@@ -1,0 +1,90 @@
+.sidebar {
+    width: 20%;
+    height: 100%;
+    background-color: var(--main-color);
+    float: left;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    padding: 64px 16px 64px 32px;
+}
+
+.sidebar .logo {
+    width: 192px;
+    height: 100%;
+}
+
+.sidebar ul {
+    display: flex;
+    flex-direction: column;
+}
+
+.sidebar ul li {
+    padding: 16px 12px;
+    border-left: 4px solid var(--main-color);
+}
+
+.sidebar ul li:hover {
+    background-color: var(--active-color);
+}
+
+.sidebar ul li img {
+    width: 20px;
+    height: 20px;
+}
+
+.sidebar ul li  {
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    color: var(--white-color);
+    display: flex;
+    gap: 8px;
+}
+
+.sidebar ul li.active {
+    border-left: 4px solid var(--orange-color);
+    background-color: var(--active-color);
+    border-top-right-radius: 12px;
+    border-bottom-right-radius: 12px;
+}
+
+.sidebar ul li.active  {
+    color: var(--orange-color);
+    font-weight: 500;
+    background-color: transparent;
+}
+
+.settings {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: var(--profile-bg);
+    padding: 16px 12px;
+    border-radius: 12px;
+}
+
+.settings img {
+    width: 20px;
+    height: 20px;
+}
+
+.settings .profile-box {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+}
+
+.settings .profile-box span {
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    color: var(--opacity-color);
+}
+
+.settings .profile-box img {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    object-fit: cover;
+}

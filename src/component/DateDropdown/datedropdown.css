@@ -1,0 +1,13 @@
+.select-dropdown {
+    padding: 8px 16px;
+    background-color: #ffffff;
+    border: 1px solid #F6F6F6;
+    border-radius: 12px;
+}
+
+.dropdown-box span {
+    color: var(--dropdowntext-color);
+    font-size: 10px;
+    font-weight: 400;
+    padding: 0 12px;
+}

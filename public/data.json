@@ -1,0 +1,56 @@
+[
+    {
+      "type": "domain",
+      "name": "brandygo.com",
+      "customer": "Brandygo Reklam Tasarım",
+      "duration": "23 Gün",
+      "date": "05.02.2025",
+      "price": "₺550,00",
+      "icon": "hasthag"
+    },
+    {
+      "type": "domain",
+      "name": "brandygoweb.com",
+      "customer": "Brandygo Reklam Tasarım",
+      "duration": "23 Gün",
+      "date": "05.02.2025",
+      "price": "₺500,00",
+      "icon": "hasthag"
+    },
+    {
+      "type": "hosting",
+      "name": "breadhouse.com.tr",
+      "customer": "BH Donuk Gıda",
+      "duration": "28 Gün",
+      "date": "10.02.2025",
+      "price": "₺750,00",
+      "icon": "tableHosting"
+    },
+    {
+      "type": "sunucu",
+      "name": "armendus.com",
+      "customer": "Armendus Operatör Kol",
+      "duration": "23 Gün",
+      "date": "05.02.2025",
+      "price": "₺750,00",
+      "icon": "wifi"
+    },
+    {
+      "type": "domain",
+      "name": "bilalozbey.com",
+      "customer": "Bilal Özbey",
+      "duration": "23 Gün",
+      "date": "03.02.2025",
+      "price": "₺1550,00",
+      "icon": "hasthag"
+    },
+    {
+      "type": "sunucu",
+      "name": "huseyindiyaroglu.com",
+      "customer": "Hüseyin Diyaroğlu",
+      "duration": "23 Gün",
+      "date": "03.02.2025",
+      "price": "₺1550,00",
+      "icon": "wifi"
+    }
+  ]
